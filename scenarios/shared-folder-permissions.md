@@ -117,22 +117,22 @@ This issue was resolved by:
 
 ### HelpDesk_Tier1 Security Group
 
-![Security Group](./screenshots/active-directory/security-group.png)
+![Security Group](../screenshots/active-directory/security-group.png)
 
 ---
 
 ### HelpDesk NTFS Permissions
 
-![NTFS Permissions](./screenshots/scenarios/shared-folder-permissions/helpdesk-folder-ntfs-permissions.png)
+![NTFS Permissions](../screenshots/scenarios/shared-folder-permissions/helpdesk-folder-ntfs-permissions.png)
 
 ---
 
 ### Access Denied Validation
 
-![Access Denied](./screenshots/scenarios/shared-folder-permissions/access-denied.png)
+![Access Denied](../screenshots/scenarios/shared-folder-permissions/access-denied.png)
 
 ---
 
 ### Successful HelpDesk Share Access
 
-![HelpDesk Access](./screenshots/scenarios/shared-folder-permissions/successful-access.png)
+![HelpDesk Access](../screenshots/scenarios/shared-folder-permissions/successful-access.png)
