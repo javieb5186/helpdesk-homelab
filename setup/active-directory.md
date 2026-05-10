@@ -97,7 +97,7 @@ Domain controller promotion initially failed because the local Administrator acc
 
 ### Static IP Configuration
 
-![IP Configuration](../screenshots/active-directory/ipconfig-blur.png)
+![IP Configuration](../screenshots/active-directory/ipconfig-blur.PNG)
 
 ---
 
