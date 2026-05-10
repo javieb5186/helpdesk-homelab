@@ -35,6 +35,16 @@ Join Windows 11 client systems to the `lab.local` Active Directory domain and ve
 
 ---
 
+## Permission Validation
+
+The `LAB\helpdesk` account was added to a delegated security group which was granted local administrator access on workstation systems.
+
+Validation testing confirmed:
+- Help desk account could perform administrative workstation tasks
+- Standard user account could not perform privileged administrative actions
+
+---
+
 ## Troubleshooting Notes
 
 ### Domain Login Failure
@@ -74,3 +84,7 @@ After creating the required domain accounts inside the appropriate Organizationa
 ### CLIENT01 Login
 
 ![Domain Login](../screenshots/domain-join/jdoe-login.png)
+
+### Local Administrator Groups
+
+![Local Administrator Groups](../screenshots/domain-join/local-admin-group.png)
