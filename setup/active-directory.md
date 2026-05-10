@@ -40,6 +40,16 @@ Configure a Windows Server 2025 domain controller for a simulated small business
 
 ---
 
+## Security Groups
+
+### Created Groups
+- HelpDesk_Tier1
+
+### Group Purpose
+The HelpDesk_Tier1 group was created to simulate delegated Tier 1 workstation administration privileges without assigning full domain administrator permissions.
+
+---
+
 ## Validation
 
 - Domain controller promotion completed successfully
@@ -88,3 +98,9 @@ Domain controller promotion initially failed because the local Administrator acc
 ### Static IP Configuration
 
 ![IP Configuration](../screenshots/active-directory/ipconfig-blur.png)
+
+---
+
+### Security Groups
+
+![Security Groups](../screenshots/active-directory/security-group.png)
