@@ -74,4 +74,4 @@ Successfully mapped the shared folder as a persistent network drive.
 
 ### Mapped Network Drive
 
-![Mapped Drive](../screenshots/scenarios/mapped-network-drive/mapped-drive.png)
+![Mapped Drive](../screenshots/scenarios/mapped-drive/mapped-drive.png)
