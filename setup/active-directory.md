@@ -1,64 +1,90 @@
-# VMware Lab Setup
+# Active Directory Setup
 
 ## Objective
 
-Create a virtualized Tier 1 help desk lab environment using VMware Workstation Pro to simulate a small business Windows domain environment.
+Configure a Windows Server 2025 domain controller for a simulated small business help desk environment.
 
 ---
 
 ## Environment
 
-### Hypervisor
-- VMware Workstation Pro
-
-### Operating Systems
 - Windows Server 2025
-- Windows 11 Pro
-
-### Virtual Machines
-
-| Device Name | Purpose |
-|---|---|
-| DC01 | Domain Controller |
-| HELPDESK01 | Tier 1 Help Desk Workstation |
-| CLIENT01 | Standard User Workstation |
+- VMware Workstation Pro
+- NAT networking
+- Static IPv4 configuration
 
 ---
 
-## Network Configuration
+## Configuration Steps
 
-- NAT networking was used for all virtual machines
-- A static IP address was assigned to the domain controller
-- Client systems used the domain controller for DNS resolution
+1. Renamed the server to `DC01`
+2. Configured a static IPv4 address
+3. Installed Active Directory Domain Services
+4. Installed DNS Server role
+5. Promoted the server to a domain controller
+6. Created a new forest: `lab.local`
+7. Created Organizational Units for support and standard users
+8. Created domain user accounts
 
 ---
 
-## Resource Allocation
+## Organizational Structure
 
-### DC01
-- 4 vCPUs
-- 4 GB RAM
+### Organizational Units
+- HelpDesk
+- Standard Users
 
-### HELPDESK01
-- 4 vCPUs
-- 4 GB RAM
-
-### CLIENT01
-- 4 vCPUs
-- 4 GB RAM
+### Domain Accounts
+- LAB\helpdesk
+- LAB\jdoe
 
 ---
 
 ## Validation
 
-- All virtual machines powered on successfully
-- Systems communicated successfully over the virtual network
-- Internet connectivity verified through NAT networking
+- Domain controller promotion completed successfully
+- DNS records created successfully
+- Domain users authenticated successfully
+- Domain services accessible from client systems
+
+---
+
+## Troubleshooting Notes
+
+### Static IP Warning
+
+A prerequisite check initially warned that no static IP address was configured. The active network adapter was reconfigured with a static IPv4 address and verified using `ipconfig`.
+
+### No Internet Warning
+
+After configuring loopback DNS (`127.0.0.1`), Windows temporarily displayed a no internet access warning until DNS services were fully installed and operational.
+
+### Blank Administrator Password
+
+Domain controller promotion initially failed because the local Administrator account did not meet password requirements. A strong password was configured before rerunning prerequisite validation.
 
 ---
 
 ## Screenshots
 
-### VMware Environment Overview
+### Server Manager
 
-![VMware Overview](../screenshots/vmware/vmware-overview.png)
+![Server Manager](../screenshots/active-directory/server-manager.png)
+
+---
+
+### Active Directory Users and Computers
+
+![AD Users and Computers](../screenshots/active-directory/ad-users-&-computers.png)
+
+---
+
+### DNS Manager
+
+![DNS Manager](../screenshots/active-directory/dns-manager.png)
+
+---
+
+### Static IP Configuration
+
+![IP Configuration](../screenshots/active-directory/ipconfig-blur.png)
