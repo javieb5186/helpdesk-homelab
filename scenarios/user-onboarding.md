@@ -193,3 +193,9 @@ Provisioned Microsoft Entra ID user account for asmith successfully. Escalated M
 ![Outlook Access](../screenshots/scenarios/user-onboarding/outlook-access.png)
 
 ---
+
+### Update Knowledge Base
+
+![Knowledge Base](../screenshots/scenarios/user-onboarding/kb.png)
+
+---
