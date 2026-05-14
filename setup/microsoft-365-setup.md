@@ -97,22 +97,22 @@ Successfully logged into Microsoft 365 services using the helpdesk and jdoe acco
 
 ### MFA Enforcement
 
-![MFA Enforcement](../screenshots/microsoft-365/mfa-enforced.png)
+![MFA Enforcement](../screenshots/microsoft-365/mfa.png)
 
 ---
 
 ### Helpdesk Administrator Role
 
-![Helpdesk Role](../screenshots/microsoft-365/helpdesk-admin-role.png)
+![Helpdesk Role](../screenshots/microsoft-365/helpdesk-role.png)
 
 ---
 
 ### Successful HelpDesk Microsoft 365 Login
 
-![Successful Login](../screenshots/microsoft-365/m365-helpdesk-login.png)
+![Successful Login](../screenshots/microsoft-365/helpdesk-login.png)
 
 ---
 
 ### Successful Standard User Microsoft 365 Login
 
-![Successful Login](../screenshots/microsoft-365/m365-user-login.png)
+![Successful Login](../screenshots/microsoft-365/user-login.png)
