@@ -164,7 +164,7 @@ Provisioned Microsoft Entra ID user account for asmith successfully. Escalated M
 
 ## Supporting Artifacts
 
-[Spiceworks Ticket Activity PDF](../artifacts/spiceworks/user-onboarding-ticket.pdf)
+[Spiceworks Ticket Activity PDF](../artifacts/scenarios/user-onboarding-ticket.pdf)
 
 ---
 
