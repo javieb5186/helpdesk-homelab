@@ -128,7 +128,7 @@ Blocked Microsoft 365 sign-in access for jdoe and removed assigned Business Prem
 
 ## Supporting Artifacts
 
-[Spiceworks Ticket Activity PDF](../artifacts/scenarios/user-offboarding/user-offboarding-ticket.pdf)
+[Spiceworks Ticket Activity PDF](../tickets/user-offboarding-ticket.pdf)
 
 ---
 
