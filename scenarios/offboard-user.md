@@ -132,6 +132,10 @@ Blocked Microsoft 365 sign-in access for jdoe and removed assigned Business Prem
 
 ---
 
+## Related Knowledge Base
+
+- [Hybrid User Offboarding Procedure](../knowledge-base/hybrid-user-offboarding.md)
+
 ## Screenshots
 
 ### Disabled Active Directory Account
@@ -161,3 +165,9 @@ Blocked Microsoft 365 sign-in access for jdoe and removed assigned Business Prem
 ### License Removal
 
 ![License Removal](../screenshots/scenarios/user-offboarding/license-removal.png)
+
+---
+
+### Update Knowledge Base
+
+![Hybrid User Offboarding Knowledge Base](../screenshots/scenarios/hybrid-user-offboarding-kb.md)
