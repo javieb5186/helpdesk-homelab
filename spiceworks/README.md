@@ -1,1 +1,0 @@
-# Spiceworks Documentation
