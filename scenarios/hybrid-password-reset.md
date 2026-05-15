@@ -128,7 +128,7 @@ Revoked active Microsoft 365 sessions to invalidate existing authentication toke
 
 ## Ticket 
 
-[Spiceworks Ticket Activity PDF](../tickets/password-reset-ticket.pdf)
+[Spiceworks Ticket Activity PDF](../tickets/hybrid-password-reset-ticket.pdf)
 
 ---
 
@@ -136,16 +136,16 @@ Revoked active Microsoft 365 sessions to invalidate existing authentication toke
 
 ### Active Directory Password Reset
 
-![AD Password Reset](../screenshots/scenarios/password-reset/ad-password-reset.png)
+![AD Password Reset](../screenshots/scenarios/hybrid-password-reset/ad-password-reset.png)
 
 ---
 
 ### Microsoft 365 Password Reset
 
-![M365 Password Reset](../screenshots/scenarios/password-reset/m365-password-reset.png)
+![M365 Password Reset](../screenshots/scenarios/hybrid-password-reset/m365-password-reset.png)
 
 ---
 
 ### Session Revocation
 
-![Session Revocation](../screenshots/scenarios/password-reset/session-revocation.png)
+![Session Revocation](../screenshots/scenarios/hybrid-password-reset/session-revocation.png)
