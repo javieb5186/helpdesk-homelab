@@ -148,4 +148,10 @@ Revoked active Microsoft 365 sessions to invalidate existing authentication toke
 
 ### Session Revocation
 
-![Session Revocation](../screenshots/scenarios/hybrid-password-reset/session-revocation.png)
+![Session Revocation](../screenshots/scenarios/hybrid-password-reset/session-revoke.png)
+
+---
+
+### Update Knowledge Base
+
+![Knowledge Base](../screenshots/scenarios/hybrid-password-reset/kb.png)
