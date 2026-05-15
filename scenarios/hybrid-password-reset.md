@@ -149,9 +149,3 @@ Revoked active Microsoft 365 sessions to invalidate existing authentication toke
 ### Session Revocation
 
 ![Session Revocation](../screenshots/scenarios/password-reset/session-revocation.png)
-
----
-
-### Successful User Authentication
-
-![Successful Login](../screenshots/scenarios/password-reset/successful-login.png)
