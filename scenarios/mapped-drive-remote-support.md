@@ -156,3 +156,9 @@ Confirmed successful access to shared organizational files and validated standar
 ### Help Desk Point of View
 
 ![Help Desk POV](../screenshots/scenarios/mapped-drive-remote-support/helpdesk-pov.png)
+
+---
+
+### Update Knowledge Base
+
+![Knowledge Base](../screenshots/scenarios/mapped-drive-remote-support/kb.png)
