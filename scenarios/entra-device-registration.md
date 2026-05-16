@@ -204,3 +204,9 @@ Verified successful Microsoft Entra device registration for HELPDESK01. Workstat
 ### Entra Devices Page
 
 ![Entra Devices](../screenshots/scenarios/entra-device-registration/entra-devices.png)
+
+---
+
+### Update Knowledge Base
+
+![Knowledge Base](../screenshots/scenarios/entra-device-registration/kb.png)
