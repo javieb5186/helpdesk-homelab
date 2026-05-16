@@ -129,7 +129,7 @@ Confirmed successful access to shared organizational files and validated standar
 
 ## Supporting Artifact
 
-[Spiceworks Ticket Activity PDF](../artifacts/spiceworks/mapped-drive-remote-support-ticket.pdf)
+[Spiceworks Ticket Activity PDF](../tickets/mapped-drive-remote-support-ticket.pdf)
 
 ---
 
