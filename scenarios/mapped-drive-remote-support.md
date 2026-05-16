@@ -137,13 +137,13 @@ Confirmed successful access to shared organizational files and validated standar
 
 ### Help Desk Quick Assist Remote Session
 
-![Help Desk Quick Assist Session](../screenshots/scenarios/mapped-drive-remote-support/quick-assist-session.png)
+![Help Desk Quick Assist Session](../screenshots/scenarios/mapped-drive-remote-support/helpdesk-qa-session.png)
 
 ---
 
 ### User Quick Assist Remote Session
 
-![User Quick Assist Session](../screenshots/scenarios/mapped-drive-remote-support/missing-drive.png)
+![User Quick Assist Session](../screenshots/scenarios/mapped-drive-remote-support/user-qa-session.png)
 
 ---
 
@@ -155,4 +155,4 @@ Confirmed successful access to shared organizational files and validated standar
 
 ### Help Desk Point of View
 
-![Help Desk POV](../screenshots/scenarios/mapped-drive-remote-support/shared-drive-access.png)
+![Help Desk POV](../screenshots/scenarios/mapped-drive-remote-support/helpdesk-pov.png)
