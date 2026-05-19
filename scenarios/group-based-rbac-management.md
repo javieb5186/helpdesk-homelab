@@ -20,7 +20,7 @@ Low
 
 ### Ticket Title
 ```text
-Create Microsoft Entra security group for remote support technicians
+Requesting transition from direct Microsoft Entra administrative role assignments to group-based role management for remote support personnel.
 ```
 
 ### Request Source
@@ -167,7 +167,7 @@ through group membership inheritance.
 ### Ticket Summary
 
 ```text
-Requesting creation of a Microsoft Entra security group for remote support technicians to support future cloud-based administrative access management and organizational role assignment workflows.
+Requesting transition from direct Microsoft Entra administrative role assignments to group-based role management for remote support personnel.
 ```
 
 ---
@@ -175,7 +175,7 @@ Requesting creation of a Microsoft Entra security group for remote support techn
 ### Final Resolution
 
 ```text
-Created Microsoft Entra security group RemoteSupport_Technicians successfully. Added authorized support personnel and verified successful group membership assignment within Microsoft Entra Admin Center
+Successfully implemented group-based administrative role assignment within Microsoft Entra ID using a role-assignable security group. Assigned Helpdesk Administrator and User Administrator roles to the RemoteSupport_Admins group and verified inherited administrative permissions through group membership. Confirmed continued help desk administrative functionality following transition from direct user-based role assignments to centralized RBAC management.
 ```
 
 ---
