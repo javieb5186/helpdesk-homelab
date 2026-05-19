@@ -203,3 +203,9 @@ Successfully implemented group-based administrative role assignment within Micro
 ### Inherited Administrative Permissions
 
 ![Inherited Permissions](../screenshots/scenarios/group-based-rbac-management/inherited-permissions.png)
+
+---
+
+### Update Knowledge Base
+
+![Knowledge Base](../screenshots/scenarios/group-based-rbac-management/kb.png)
